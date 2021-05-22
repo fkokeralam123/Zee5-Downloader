@@ -1,5 +1,5 @@
 ## Zee5 Downloader
-If you find any bugs, report at @TroJanzSupport
+If you find any bugs, report at @FKO63
 
 **My Features**:
 
@@ -12,7 +12,7 @@ If you find any bugs, report at @TroJanzSupport
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TroJanzHEX/Zee5-Downloader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/fkokeralam123/Zee5-Downloader)
 
 #### Run in your VPS
 
@@ -28,7 +28,7 @@ sudo apt install ffmpeg
 * Run the app
 
 ```sh
-git clone https://github.com/TroJanzHEX/Zee5-Downloader
+git clone https://github.com/fkokeralam123/Zee5-Downloader
 cd Zee5-Downloader
 pip3 install -r requirements.txt
 python3 bot.py
@@ -37,8 +37,8 @@ python3 bot.py
 ## Configs
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
-* APP_ID        - From my.telegram.org (or @UseTGXBot)
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
+* APP_ID        - From my.telegram.org
+* API_HASH      - From my.telegram.org
 * DB_URI        - PostgreSQL DB URL
 
 ## Commands
@@ -50,7 +50,6 @@ python3 bot.py
 * /delthumb          - Clear saved thumbnail
 
 
-## Credits, and Thanks to Beloved Developers ;
+## Credits, and Thanks to Beloved Developer ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell)
+* [FKO KERALAM](https://telegram.dog/fko_keralam) 
